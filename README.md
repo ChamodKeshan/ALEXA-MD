@@ -7,9 +7,9 @@
 <div align="center">
   <p align="center">
 
-![logo](https://telegra.ph/file/b373cf75c9fddb6721650.jpg)
+ <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://telegra.ph/file/b373cf75c9fddb6721650.jpg">
 
-</p>    <a/>
+  </p>    <a/>
 
   <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
 
@@ -27,8 +27,16 @@
 <a href="https://github.com/En-cuzier/Queen-Alexa-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-    </p>
 
+
+**╭──⦁ Install With Simple method ⦁──╮**
+
+
+# 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
+
+   <a href="https://https://replit.com/@ChamodKeshan/QueenAlexa-MD?output%20only=1&lite=1"><img src="https://repl.it/badge/github/ChamodKeshan/Queen-Alexa">
+
+****Thanks to DGXeon Cheems bot qr replit.****
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
